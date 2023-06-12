@@ -1,0 +1,9 @@
+@component --> Annotated over entity/dto classes for which we need to create object for
+which we need spring to create object for.
+
+@Repository-->Annotated over the dao classes  for which  we need spring to create for and is also connected to database.
+
+@Controller-->Annotated over the controller class which  will recive allthe url request and will be responsible to implement a model and send a view
+
+
+@Configuration--> Annotated over the class used for configuration where we will be having all the base packages name.
